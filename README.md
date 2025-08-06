@@ -1,10 +1,8 @@
-# Air Dryer CAD Model
+# CAD Models Showcase
 
-This repository contains a 3D CAD model of an industrial **air dryer** created in **ANSYS SpaceClaim**.
+This repository contains my collection of CAD models built using ANSYS SpaceClaim and other tools.
 
-## 🧩 Model Description
-- Designed in: ANSYS SpaceClaim
-- Purpose: Demonstrate CAD modelling skills for mechanical & CFD applications
-- File formats:
-  - `.scdoc` (original)
-  - `.png` (exported)
+## 📂 Models Available
+
+- [Air Dryer](Air%20Dryer) – A model designed for industrial air drying systems.
+- More coming soon...
